@@ -173,7 +173,7 @@ button:active {
 /*Barra de navegación*/
 
 #nav {
-    width: 888px;
+    width: 886px;
     background-color: #333333;
     color: white;
     height: 40px;
@@ -181,7 +181,6 @@ button:active {
     font-size: 14px;
     box-shadow: 0px 0px 2px gray;
     border-radius: 10px;
-    left: 15%;
     margin: auto;
 }
 
